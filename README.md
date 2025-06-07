@@ -22,3 +22,39 @@ DigitRecognitionUsingNeuralNetwork/
 ├── check.py Script to test predictions
 
 ├── README.md  This file
+
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Python 3.x  
+- NumPy  
+- Matplotlib  
+- Jupyter Notebook
+
+### Steps to Run
+
+```bash
+# Clone the repository
+git clone https://github.com/AyushPrakash414/DigitRecognitionUsingNeuralNetwork.git
+cd DigitRecognitionUsingNeuralNetwork
+
+# Install dependencies
+pip install numpy matplotlib
+
+# Run the notebook
+jupyter notebook digit_recognistion_using_Neural_network.ipynb
+
+# 📊 Sample Output
+✅ After training, the model reaches around 92% accuracy
+
+You’ll see prediction samples like:
+
+
+Prediction: 3 | Actual: 3
+Prediction: 7 | Actual: 7
+Prediction: 1 | Actual: 1
+You can also save and display some digit images with their predicted labels.

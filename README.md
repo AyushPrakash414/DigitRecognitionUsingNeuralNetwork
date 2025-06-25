@@ -57,4 +57,4 @@ You’ll see prediction samples like:
 Prediction: 3 | Actual: 3
 Prediction: 7 | Actual: 7
 Prediction: 1 | Actual: 1
-You can also save and display some digit images with their predicted labels.
+You can also save and display some digit images with their predicted labels..

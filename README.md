@@ -2,7 +2,7 @@
 
 ![MNIST Sample](https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png)
 
-This is a simple project where I’ve built an **Artificial Neural Network (ANN)** from scratch to recognize handwritten digits (0–9) using the **MNIST dataset**.
+This is a simple project where I’ve built an **Artificial Neural Network (ANN)** from scratch to recognize handwritten digits (0–9) using the **MNIST dataset**..
 
 ---
 

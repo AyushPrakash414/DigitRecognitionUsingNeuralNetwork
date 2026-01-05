@@ -1,4 +1,4 @@
-# 🧠 Handwritten Digit Recognition using ANN.
+# 🧠 Handwritten Digit Recognition using ANN.h
 
 ![MNIST Sample](https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png)
 
